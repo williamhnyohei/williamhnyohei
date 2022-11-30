@@ -1,8 +1,8 @@
 # Profile
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=williamhnyohei&show_icons=true&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=williamhnyohei&show_icons=true&theme=tokyonight)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=williamhnyohei&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=williamhnyohei&theme=tokyonight)
 
 <div>
   <a href="https://www.linkedin.com/in/william-hideki-nishijima-yohei-a60a5b226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
