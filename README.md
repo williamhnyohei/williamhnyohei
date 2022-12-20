@@ -1,5 +1,7 @@
 # Profile
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=williamhnyohei&repo=github-readme-stats)](https://github.com/williamhnyohei/williamhnyohei)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=williamhnyohei&show_icons=true&theme=tokyonight)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=williamhnyohei&theme=tokyonight)
