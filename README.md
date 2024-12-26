@@ -19,7 +19,10 @@
 
 ### GitHub Stats
 
-<div align="center">
+<div
+  style="display:flex; gap: 0.5rem;"
+  align="center"
+>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamhnyohei&show_icons=true&theme=tokyonight)
 
