@@ -25,16 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamhnyohei&theme=tokyonight" alt="Top Languages" style="max-width: 30%; height: auto;"/>
 </div>
 
----
-
-### Contribution Graph
-
-  ![Status](https://github.com/isaac545454/isaac545454/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
-### Detailed Stats
-
 <div align="center">
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=williamhnyohei&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamhnyohei&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
