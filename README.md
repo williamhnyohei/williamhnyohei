@@ -19,17 +19,10 @@
 
 ### GitHub Stats
 
-<div
-  style="display:flex; gap: 0.5rem;"
-  align="center"
->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamhnyohei&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamhnyohei&theme=tokyonight)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=williamhnyohei)
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 0.5rem;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=williamhnyohei&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamhnyohei&theme=tokyonight" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=williamhnyohei" alt="Profile View Counter" />
 </div>
 
 ---
