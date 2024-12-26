@@ -19,20 +19,14 @@
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div align="center">
 
-<div style="flex: 1; min-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamhnyohei&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamhnyohei&show_icons=true&theme=tokyonight)
 
-<div style="flex: 1; min-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamhnyohei&theme=tokyonight" alt="Top Languages"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamhnyohei&theme=tokyonight)
 
-</div>
+![Profile View Counter](https://komarev.com/ghpvc/?username=williamhnyohei)
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=williamhnyohei" alt="Profile View Counter"/>
 </div>
 
 ---
@@ -47,15 +41,10 @@
 
 ### Detailed Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<div align="center">
 
-<div style="flex: 1; min-width: 300px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=williamhnyohei&theme=dracula&utcOffset=-3" alt="GitHub Commits"/>
-</div>
-
-<div style="flex: 1; min-width: 300px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamhnyohei&theme=dracula" alt="GitHub Details"/>
-</div>
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=williamhnyohei&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamhnyohei&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- |
 
 </div>
 
