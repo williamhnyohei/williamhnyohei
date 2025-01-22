@@ -20,11 +20,6 @@
 
 ### GitHub Stats
 
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 1rem; margin-top: 1rem;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamhnyohei&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="max-width: 30%; height: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamhnyohei&theme=tokyonight" alt="Top Languages" style="max-width: 30%; height: auto;"/>
-</div>
-
 <div align="center">
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=williamhnyohei&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamhnyohei&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
