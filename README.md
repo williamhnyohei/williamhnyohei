@@ -10,14 +10,15 @@
 
 ### About Me
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
     👋 Hello! My name is **William Hideki Nishijima Yohei**, and I am a passionate **Full Stack Developer**. I graduated in **Computer Science** at **UNESP Rio Claro** and have been in the tech industry for over **3 years**. During my journey, I have continually enhanced my skills through platforms like **DIO**, **Santander Bootcamps**, and by participating in events such as the **Semana da Computação da UNESP RC**.
   </div>
   <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300" style="border-radius: 10px;"/>
   </div>
 </div>
+
 
 ---
 
