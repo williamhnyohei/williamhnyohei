@@ -10,7 +10,10 @@
 
 ### About Me
 
-👋 Hello! My name is **William Hideki Nishijima Yohei**, and I am a passionate **Full Stack Developer**. I graduated in **Computer Science** at **UNESP Rio Claro** and have been in the tech industry for over **3 years**. During my journey, I have continually enhanced my skills through platforms like **DIO**, **Santander Bootcamps**, and by participating in events such as the **Semana da Computação da UNESP RC**.
+👋 Hello! My name is **William Hideki Nishijima Yohei**, and I am a dedicated **Full Stack Developer** with a growing focus on **Data Analysis** and **Artificial Intelligence**. I hold a degree in **Computer Science** from **UNESP Rio Claro**, and have over **3 years of experience** in the tech industry.
+
+Throughout my journey, I've built robust systems using **Vue.js**, **Node.js**, **GraphQL**, and **MongoDB**, and recently expanded my skill set to include **supervised machine learning**, **generative AI**, and **data-driven applications**. I actively study and apply these concepts using platforms like **DeepLearning.AI**, **Digital Innovation One**, and **Santander Bootcamps**, while also engaging in academic and community events like the **Semana da Computação da UNESP RC**.
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300"/>
