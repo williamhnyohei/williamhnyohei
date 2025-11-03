@@ -10,10 +10,20 @@
 
 ### About Me
 
-👋 Hello! My name is **William Hideki Nishijima Yohei**, and I am a dedicated **Full Stack Developer** with a growing focus on **Data Analysis** and **Artificial Intelligence**. I hold a degree in **Computer Science** from **UNESP Rio Claro**, and have over **3 years of experience** in the tech industry.
+## 👋 About Me  
 
-Throughout my journey, I've built robust systems using **Vue.js**, **Node.js**, **GraphQL**, and **MongoDB**, and recently expanded my skill set to include **supervised machine learning**, **generative AI**, and **data-driven applications**. I actively study and apply these concepts using platforms like **DeepLearning.AI**, **Digital Innovation One**, and **Santander Bootcamps**, while also engaging in academic and community events like the **Semana da Computação da UNESP RC**.
+Hello! My name is **William Hideki Nishijima Yohei**, and I’m a **Full Stack Developer** and **AI Solutions Specialist** with a degree in **Computer Science** from **UNESP Rio Claro** and over **three years of experience** in software development, automation, and applied artificial intelligence.  
 
+I have strong expertise in **Vue.js**, **Node.js**, **GraphQL**, and **MongoDB**, having contributed to the full-stack development and successful launch of the **Cotagri platform** at *Yeb Inteligência de Mercado*. My work focused on **system scalability**, **data integration**, and **client-driven product delivery**.  
+
+Currently, I work at the **Fundação Vanzolini**, developing **AI-powered tools** for institutions such as **DETRAN**, **SEDUC**, and **EMASP**.  
+These solutions focus on **document analysis**, **data extraction**, and **automated content validation**, leveraging **Python**, **LLMs**, and **custom NLP pipelines** to improve efficiency and quality in public sector processes.  
+
+I’m also advancing my expertise in **AI-driven product development**, building projects that combine **machine learning**, **automation**, and **user-centric design** — including:  
+- **[Vetra](#)**: an AI-powered “wallet antivirus” for crypto users.  
+- **[DeepSeek VS Code Extension](#)**: integrates intelligent chat capabilities directly into developer workflows.  
+
+I’m motivated by challenges that blend **data, intelligence, and user experience**. I continuously pursue growth through **bootcamps**, **research**, and **collaborative innovation**, actively studying and applying these concepts using platforms like **DeepLearning.AI**, **Digital Innovation One**, and **Santander Bootcamps**, while also engaging in academic and community events such as the **Semana da Computação da UNESP RC**.  
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300"/>
