@@ -20,8 +20,10 @@ Currently, I work at the **Fundação Vanzolini**, developing **AI-powered tools
 These solutions focus on **document analysis**, **data extraction**, and **automated content validation**, leveraging **Python**, **LLMs**, and **custom NLP pipelines** to improve efficiency and quality in public sector processes.  
 
 I’m also advancing my expertise in **AI-driven product development**, building projects that combine **machine learning**, **automation**, and **user-centric design** — including:  
-- **[Vetra](#)**: an AI-powered “wallet antivirus” for crypto users.  
-- **[DeepSeek VS Code Extension](#)**: integrates intelligent chat capabilities directly into developer workflows.  
+- **[Vetra](https://github.com/williamhnyohei/Vetra)**: an AI-powered “wallet antivirus” for crypto users.  
+- **[DeepSeek VS Code Extension](https://github.com/williamhnyohei/deep-seek-vscode-extension)**: integrates intelligent chat capabilities directly into developer workflows.  
+- **[NLP-to-SQL Converter](https://github.com/williamhnyohei/NLP-to-SQL-converter)**: natural language to SQL translation using OpenAI and FastAPI.  
+- **[Sentiment Pipeline With OpenAI](https://github.com/williamhnyohei/Sentiment-Pipeline-With-OpenAI)**: sentiment analysis pipeline for multi-domain text classification.  
 
 I’m motivated by challenges that blend **data, intelligence, and user experience**. I continuously pursue growth through **bootcamps**, **research**, and **collaborative innovation**, actively studying and applying these concepts using platforms like **DeepLearning.AI**, **Digital Innovation One**, and **Santander Bootcamps**, while also engaging in academic and community events such as the **Semana da Computação da UNESP RC**.  
 
