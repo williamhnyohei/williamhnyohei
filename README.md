@@ -54,12 +54,4 @@ I’m motivated by challenges that blend **data, intelligence, and user experien
 
 ---
 
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=williamhnyohei&row=1&column=6&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
 Thank you for visiting my profile! 🚀
