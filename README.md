@@ -12,7 +12,7 @@
 
 ## 👋 About Me  
 
-Hello! My name is **William Hideki Nishijima Yohei**, and I’m a **Full Stack Developer** and **AI Solutions Specialist** with a degree in **Computer Science** from **UNESP Rio Claro** and over **three years of experience** in software development, automation, and applied artificial intelligence.  
+Hello! My name is **William Hideki Nishijima Yohei**, and I’m a **Full Stack Developer** and **AI Solutions Specialist** with a degree in **Computer Science** from **UNESP Rio Claro** and over **four years of experience** in software development, automation, and applied artificial intelligence.  
 
 I have strong expertise in **Vue.js**, **Node.js**, **GraphQL**, and **MongoDB**, having contributed to the full-stack development and successful launch of the **Cotagri platform** at *Yeb Inteligência de Mercado*. My work focused on **system scalability**, **data integration**, and **client-driven product delivery**.  
 
